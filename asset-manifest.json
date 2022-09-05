@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/PauloMoreno505/CV/static/css/main.5fff4d30.chunk.css",
+    "main.js": "/PauloMoreno505/CV/static/js/main.b9070071.chunk.js",
+    "main.js.map": "/PauloMoreno505/CV/static/js/main.b9070071.chunk.js.map",
+    "runtime-main.js": "/PauloMoreno505/CV/static/js/runtime-main.ef4239b8.js",
+    "runtime-main.js.map": "/PauloMoreno505/CV/static/js/runtime-main.ef4239b8.js.map",
+    "static/css/2.3da84942.chunk.css": "/PauloMoreno505/CV/static/css/2.3da84942.chunk.css",
+    "static/js/2.3bb51f14.chunk.js": "/PauloMoreno505/CV/static/js/2.3bb51f14.chunk.js",
+    "static/js/2.3bb51f14.chunk.js.map": "/PauloMoreno505/CV/static/js/2.3bb51f14.chunk.js.map",
+    "static/js/3.160b252d.chunk.js": "/PauloMoreno505/CV/static/js/3.160b252d.chunk.js",
+    "static/js/3.160b252d.chunk.js.map": "/PauloMoreno505/CV/static/js/3.160b252d.chunk.js.map",
+    "index.html": "/PauloMoreno505/CV/index.html",
+    "static/css/2.3da84942.chunk.css.map": "/PauloMoreno505/CV/static/css/2.3da84942.chunk.css.map",
+    "static/css/main.5fff4d30.chunk.css.map": "/PauloMoreno505/CV/static/css/main.5fff4d30.chunk.css.map",
+    "static/js/2.3bb51f14.chunk.js.LICENSE.txt": "/PauloMoreno505/CV/static/js/2.3bb51f14.chunk.js.LICENSE.txt",
+    "static/media/Image1.53462ab9.jpg": "/PauloMoreno505/CV/static/media/Image1.53462ab9.jpg",
+    "static/media/Image2.68c739c4.jpg": "/PauloMoreno505/CV/static/media/Image2.68c739c4.jpg",
+    "static/media/Image3.4f312f86.jpg": "/PauloMoreno505/CV/static/media/Image3.4f312f86.jpg",
+    "static/media/Image4.63941271.jpg": "/PauloMoreno505/CV/static/media/Image4.63941271.jpg",
+    "static/media/Image5.bff1d9f0.jpg": "/PauloMoreno505/CV/static/media/Image5.bff1d9f0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef4239b8.js",
+    "static/css/2.3da84942.chunk.css",
+    "static/js/2.3bb51f14.chunk.js",
+    "static/css/main.5fff4d30.chunk.css",
+    "static/js/main.b9070071.chunk.js"
+  ]
+}
