@@ -7,7 +7,7 @@ import { MobileHome } from './component/MobileHome';
 
 function App() {
 	return (
-		<Box >
+		<Box>
 			<Box sx={{display:{sm:'none', xs:'none', md:'flex'}}}>
 				<Home/>
 			</Box>
