@@ -1,20 +1,19 @@
 
 import { Box } from '@mui/system';
-// import { BrowserRouter as Router} from "react-router-dom";
-// import { Switch, Route } from "react-router-dom";
 import './App.css';
-import { Home } from './component/Home';
+import { Home } from './component/PCHome';
+import { MobileHome } from './component/MobileHome';
 
 
 function App() {
 	return (
 		<Box >
-			<Home/>
-			{/* <Router>
-				<Switch>
-					<Route exact path="/" component={Navbar}/>
-				</Switch>
-			</Router> */}
+			<Box sx={{display:{sm:'none', xs:'none', md:'flex'}}}>
+				<Home/>
+			</Box>
+			<Box sx={{display:{sm:'flex', xs:'flex', md:'none'}}}>
+				<MobileHome/>
+			</Box>
 		</Box>
 	);
 }
