@@ -1,24 +1,17 @@
 {
   "files": {
-    "main.css": "/PauloMoreno505/CV/static/css/main.99fa1d5f.chunk.css",
-    "main.js": "/PauloMoreno505/CV/static/js/main.5a608912.chunk.js",
-    "main.js.map": "/PauloMoreno505/CV/static/js/main.5a608912.chunk.js.map",
-    "runtime-main.js": "/PauloMoreno505/CV/static/js/runtime-main.c7b126e7.js",
-    "runtime-main.js.map": "/PauloMoreno505/CV/static/js/runtime-main.c7b126e7.js.map",
-    "static/js/2.d98433d2.chunk.js": "/PauloMoreno505/CV/static/js/2.d98433d2.chunk.js",
-    "static/js/2.d98433d2.chunk.js.map": "/PauloMoreno505/CV/static/js/2.d98433d2.chunk.js.map",
-    "static/js/3.f27a2a6e.chunk.js": "/PauloMoreno505/CV/static/js/3.f27a2a6e.chunk.js",
-    "static/js/3.f27a2a6e.chunk.js.map": "/PauloMoreno505/CV/static/js/3.f27a2a6e.chunk.js.map",
+    "main.css": "/PauloMoreno505/CV/static/css/main.15678174.css",
+    "main.js": "/PauloMoreno505/CV/static/js/main.83cb294c.js",
+    "static/js/787.ebf51d90.chunk.js": "/PauloMoreno505/CV/static/js/787.ebf51d90.chunk.js",
+    "static/media/John Paulo Moreno CV NEW.pdf": "/PauloMoreno505/CV/static/media/John Paulo Moreno CV NEW.91f357f9998bec7a5d0c.pdf",
+    "static/media/newLandingPage.png": "/PauloMoreno505/CV/static/media/newLandingPage.79a921ddc5f0adea1989.png",
     "index.html": "/PauloMoreno505/CV/index.html",
-    "static/css/main.99fa1d5f.chunk.css.map": "/PauloMoreno505/CV/static/css/main.99fa1d5f.chunk.css.map",
-    "static/js/2.d98433d2.chunk.js.LICENSE.txt": "/PauloMoreno505/CV/static/js/2.d98433d2.chunk.js.LICENSE.txt",
-    "static/media/John Paulo Moreno CV NEW.91f357f9.pdf": "/PauloMoreno505/CV/static/media/John Paulo Moreno CV NEW.91f357f9.pdf",
-    "static/media/newLandingPage.79a921dd.png": "/PauloMoreno505/CV/static/media/newLandingPage.79a921dd.png"
+    "main.15678174.css.map": "/PauloMoreno505/CV/static/css/main.15678174.css.map",
+    "main.83cb294c.js.map": "/PauloMoreno505/CV/static/js/main.83cb294c.js.map",
+    "787.ebf51d90.chunk.js.map": "/PauloMoreno505/CV/static/js/787.ebf51d90.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.c7b126e7.js",
-    "static/js/2.d98433d2.chunk.js",
-    "static/css/main.99fa1d5f.chunk.css",
-    "static/js/main.5a608912.chunk.js"
+    "static/css/main.15678174.css",
+    "static/js/main.83cb294c.js"
   ]
 }
